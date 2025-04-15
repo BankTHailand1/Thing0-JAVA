@@ -1,0 +1,6 @@
+{
+    "greetings": ["hi", "hello", "sup"],
+    "questions": ["need something?", "need any help?", "something happen?"],
+    "responses": ["No need"],
+    "unknowned": ["something new have being said"]
+}
